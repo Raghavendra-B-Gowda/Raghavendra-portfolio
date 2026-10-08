@@ -497,7 +497,7 @@ function Index() {
               {
                 t: "MyWish",
                 d: "A dynamic web application for seamlessly generating, customizing, and sharing beautiful digital certificates.",
-                l: "https://mywish-eta.vercel.app/",
+                l: "https://mywish-certificate.vercel.app/",
               },
               {
                 t: " ",
